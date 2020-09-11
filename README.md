@@ -7,7 +7,7 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/license.svg" alt="License"></a>
 </p>
 
-## About Laravel E-Shop Ecommerce
+## About Laravel Academy Platform
 This repo contains a e-commerce with backend laravel and libreries of framework
 This repo implements: PHP , Javascript, JQuery , Node , CSS , HTML
 
